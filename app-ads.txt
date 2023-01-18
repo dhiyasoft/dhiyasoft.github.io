@@ -180,3 +180,6 @@ bidence.com, 6b4d42a1cce9ec666dc51e090227b3c9, RESELLER
 acexchange.co.kr, 1081983882, RESELLER
 tpmn.io, 406, RESELLER
 mman.kr, 32213, RESELLER
+
+
+facebook.com, 317596773677647, DIRECT, c3e20eee3f780d68
